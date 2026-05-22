@@ -1,0 +1,201 @@
+{
+  "lastUpdated": "2026-05-22T14:11:54.046Z",
+  "articles": [
+    {
+      "title": "Trump defends DOJ fund after Senate Republicans push back",
+      "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
+      "date": "2026-05-22T14:08:21.000Z",
+      "sentiment": "neutral",
+      "impact": "No direct impact on specific stocks mentioned.",
+      "tickers": []
+    },
+    {
+      "title": "Workday jumps 5% as it bumps up margin forecast on AI strength",
+      "url": "https://www.cnbc.com/2026/05/21/workday-wday-q1-earnings-report-2027.html",
+      "date": "2026-05-22T14:03:44.000Z",
+      "sentiment": "positive",
+      "impact": "Workday's AI strength boosts margin forecast.",
+      "tickers": [
+        {
+          "symbol": "WDAY",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "Oil prices head to weekly loss as U.S. and Iran signal progress toward a deal",
+      "url": "https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html",
+      "date": "2026-05-22T13:48:36.000Z",
+      "sentiment": "neutral",
+      "impact": "Oil prices may decrease with a potential US-Iran deal.",
+      "tickers": []
+    },
+    {
+      "title": "Oversight Chairman Comer launches congressional probe into insider trading on Kalshi, Polymarket",
+      "url": "https://www.cnbc.com/2026/05/22/kalshi-polymarket-comer-insider-trading-probe-congress.html",
+      "date": "2026-05-22T13:38:01.000Z",
+      "sentiment": "negative",
+      "impact": "Congressional probe launched over insider trading concerns.",
+      "tickers": []
+    },
+    {
+      "title": "U.S., Iran signal peace progress — but remain at odds over enriched uranium, Strait of Hormuz tolls",
+      "url": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html",
+      "date": "2026-05-22T13:33:25.000Z",
+      "sentiment": "neutral",
+      "impact": "No direct impact on specific stocks mentioned.",
+      "tickers": []
+    },
+    {
+      "title": "The Club's top 10 things to watch in the stock market Friday",
+      "url": "https://www.cnbc.com/2026/05/22/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html",
+      "date": "2026-05-22T13:20:06.000Z",
+      "sentiment": "positive",
+      "impact": "Stocks may extend previous gains.",
+      "tickers": []
+    },
+    {
+      "title": "What the AvalonBay, Equity Residential megamerger means for the apartment industry and rents",
+      "url": "https://www.cnbc.com/2026/05/22/avalonbay-equity-residential-apartment-merger.html",
+      "date": "2026-05-22T12:55:22.000Z",
+      "sentiment": "neutral",
+      "impact": "Mergers may increase rental prices and reduce competition.",
+      "tickers": [
+        {
+          "symbol": "AVB",
+          "price": null,
+          "change": null
+        },
+        {
+          "symbol": "EQR",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "Iran war leaves U.S. gas prices at highest levels in nearly four years ahead of Memorial Day",
+      "url": "https://www.cnbc.com/2026/05/22/gas-price-iran-war-strait-hormuz-memorial-day.html",
+      "date": "2026-05-22T12:09:40.000Z",
+      "sentiment": "negative",
+      "impact": "Rising gas prices may affect oil and energy stocks.",
+      "tickers": []
+    },
+    {
+      "title": "Donald Trump Jr.-backed 'Steroid Olympics' are happening on Sunday. Here's what to expect",
+      "url": "https://www.cnbc.com/2026/05/22/enhanced-games-performance-enhancing-drugs.html",
+      "date": "2026-05-22T11:51:23.000Z",
+      "sentiment": "neutral",
+      "impact": "No direct impact on specific stocks mentioned.",
+      "tickers": []
+    },
+    {
+      "title": "NATO will spend hundreds of billions of dollars on defense, says Rutte, as Trump pledges 5,000 American troops to top spender Poland",
+      "url": "https://www.cnbc.com/2026/05/22/trump-troops-poland-nato-rutte-defense-spending.html",
+      "date": "2026-05-22T11:39:54.000Z",
+      "sentiment": "neutral",
+      "impact": "Increased defense spending may benefit defense contractors.",
+      "tickers": []
+    },
+    {
+      "title": "Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway",
+      "url": "https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html",
+      "date": "2026-05-22T11:23:45.000Z",
+      "sentiment": "positive",
+      "impact": "Walmart to invest tariff refunds in lower prices.",
+      "tickers": [
+        {
+          "symbol": "WMT",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+      "url": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
+      "date": "2026-05-22T10:20:05.000Z",
+      "sentiment": "neutral",
+      "impact": "Mega-IPOs may signal market top, affecting overall market sentiment.",
+      "tickers": []
+    },
+    {
+      "title": "Guzman y Gomez shares surge as much as 20% after fast-food chain says it will exit U.S. market",
+      "url": "https://www.cnbc.com/2026/05/22/guzman-y-gomez-us-exit-australia-focus.html",
+      "date": "2026-05-22T07:19:34.000Z",
+      "sentiment": "positive",
+      "impact": "Shares surge 20% after exiting U.S. market.",
+      "tickers": [
+        {
+          "symbol": "GZG",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+      "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
+      "date": "2026-05-21T23:57:30.000Z",
+      "sentiment": "positive",
+      "impact": "Secures $2.9 billion loan for Idaho project",
+      "tickers": [
+        {
+          "symbol": "PPTA",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "SpaceX scrubs test flight of massive Starship rocket, will retry Friday",
+      "url": "https://www.cnbc.com/2026/05/21/spacex-plans-12th-test-flight-of-massive-starship-rocket-as-ipo-looms.html",
+      "date": "2026-05-21T23:52:46.000Z",
+      "sentiment": "neutral",
+      "impact": "No direct impact on publicly traded stocks mentioned.",
+      "tickers": []
+    },
+    {
+      "title": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA",
+      "url": "https://www.cnbc.com/2026/05/21/meta-broadcom-others-to-launch-125-million-semiconductor-research-hub-at-ucla.html",
+      "date": "2026-05-21T20:30:01.000Z",
+      "sentiment": "positive",
+      "impact": "Investment in semiconductor research hub at UCLA",
+      "tickers": [
+        {
+          "symbol": "AVGO",
+          "price": null,
+          "change": null
+        },
+        {
+          "symbol": "META",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "AI spending expected to top $1 trillion in 2 years. That estimate's way too low if Jensen Huang's right",
+      "url": "https://www.cnbc.com/2026/05/21/ai-spending-expected-to-top-1-trillion-in-2-years-why-that-estimate-may-be-too-low.html",
+      "date": "2026-05-21T19:39:20.000Z",
+      "sentiment": "positive",
+      "impact": "Nvidia CEO's statement boosts AI spending outlook.",
+      "tickers": [
+        {
+          "symbol": "NVDA",
+          "price": null,
+          "change": null
+        }
+      ]
+    },
+    {
+      "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
+      "url": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+      "date": "2026-05-21T19:06:44.000Z",
+      "sentiment": "neutral",
+      "impact": "Unclear impact on food prices due to delayed EPA rules.",
+      "tickers": []
+    }
+  ]
+}
