@@ -1,12 +1,20 @@
 {
-  "lastUpdated": "2026-05-22T14:11:54.046Z",
+  "lastUpdated": "2026-05-22T14:43:43.986Z",
   "articles": [
     {
       "title": "Trump defends DOJ fund after Senate Republicans push back",
       "url": "https://www.cnbc.com/2026/05/22/trump-doj-fund-republicans.html",
-      "date": "2026-05-22T14:08:21.000Z",
+      "date": "2026-05-22T14:37:15.000Z",
       "sentiment": "neutral",
       "impact": "No direct impact on specific stocks mentioned.",
+      "tickers": []
+    },
+    {
+      "title": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+      "url": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
+      "date": "2026-05-22T14:22:53.000Z",
+      "sentiment": "negative",
+      "impact": "War and oil prices fuel inflation worries.",
       "tickers": []
     },
     {
@@ -18,8 +26,8 @@
       "tickers": [
         {
           "symbol": "WDAY",
-          "price": null,
-          "change": null
+          "price": 127.095,
+          "change": -1.2777691471182306
         }
       ]
     },
@@ -64,13 +72,27 @@
       "tickers": [
         {
           "symbol": "AVB",
-          "price": null,
-          "change": null
+          "price": 185.85,
+          "change": 0.39433880726015
         },
         {
           "symbol": "EQR",
-          "price": null,
-          "change": null
+          "price": 66.28,
+          "change": 0.913520097442135
+        }
+      ]
+    },
+    {
+      "title": "Microsoft’s GitHub was positioned to win the AI coding race. Outages got in the way",
+      "url": "https://www.cnbc.com/2026/05/22/microsoft-was-positioned-to-win-in-ai-coding-outages-got-in-the-way.html",
+      "date": "2026-05-22T12:22:20.000Z",
+      "sentiment": "negative",
+      "impact": "Outages hinder GitHub's progress in AI coding.",
+      "tickers": [
+        {
+          "symbol": "MSFT",
+          "price": 417.115,
+          "change": -0.5768291084176567
         }
       ]
     },
@@ -83,11 +105,33 @@
       "tickers": []
     },
     {
+      "title": "Stellantis CEO sees opportunity in growing partnerships, bringing China-branded vehicles to North America",
+      "url": "https://www.cnbc.com/2026/05/22/stellantis-china-vehicles.html",
+      "date": "2026-05-22T12:00:01.000Z",
+      "sentiment": "positive",
+      "impact": "Stellantis may expand market share through Chinese-branded vehicles.",
+      "tickers": [
+        {
+          "symbol": "STLA",
+          "price": 7.665,
+          "change": 0.1960784313725448
+        }
+      ]
+    },
+    {
       "title": "Donald Trump Jr.-backed 'Steroid Olympics' are happening on Sunday. Here's what to expect",
       "url": "https://www.cnbc.com/2026/05/22/enhanced-games-performance-enhancing-drugs.html",
       "date": "2026-05-22T11:51:23.000Z",
       "sentiment": "neutral",
       "impact": "No direct impact on specific stocks mentioned.",
+      "tickers": []
+    },
+    {
+      "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+      "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+      "date": "2026-05-22T11:45:23.000Z",
+      "sentiment": "neutral",
+      "impact": "No specific companies mentioned, general AI policy discussion.",
       "tickers": []
     },
     {
@@ -99,6 +143,14 @@
       "tickers": []
     },
     {
+      "title": "The Cuba situation is starting to resemble a pre-conflict playbook",
+      "url": "https://www.cnbc.com/2026/05/22/the-cuba-situation-is-starting-to-resemble-a-pre-conflict-playbook.html",
+      "date": "2026-05-22T11:36:25.000Z",
+      "sentiment": "neutral",
+      "impact": "No direct impact on specific stocks mentioned.",
+      "tickers": []
+    },
+    {
       "title": "Trump said he'd 'remember' companies that didn't apply for tariff refunds. Many of them are anyway",
       "url": "https://www.cnbc.com/2026/05/22/trump-tariff-refunds-walmart-home-depot-target-apply.html",
       "date": "2026-05-22T11:23:45.000Z",
@@ -107,10 +159,18 @@
       "tickers": [
         {
           "symbol": "WMT",
-          "price": null,
-          "change": null
+          "price": 119.34,
+          "change": -1.6482610845557935
         }
       ]
+    },
+    {
+      "title": "Oil-rich Alberta to hold a vote on whether to separate from Canada",
+      "url": "https://www.cnbc.com/2026/05/22/alberta-referendum-canada-oil-sands.html",
+      "date": "2026-05-22T10:27:34.000Z",
+      "sentiment": "neutral",
+      "impact": "Potential Canadian market instability",
+      "tickers": []
     },
     {
       "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
@@ -118,6 +178,14 @@
       "date": "2026-05-22T10:20:05.000Z",
       "sentiment": "neutral",
       "impact": "Mega-IPOs may signal market top, affecting overall market sentiment.",
+      "tickers": []
+    },
+    {
+      "title": "Crypto bros, scalpers and Logan Paul: Inside the world of Pokémon where cards are sold for millions",
+      "url": "https://www.cnbc.com/2026/05/22/pokemon-cards-crypto-market-resale-logan-paul.html",
+      "date": "2026-05-22T08:44:31.000Z",
+      "sentiment": "neutral",
+      "impact": "No direct impact on specific stocks mentioned.",
       "tickers": []
     },
     {
@@ -139,14 +207,22 @@
       "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
       "date": "2026-05-21T23:57:30.000Z",
       "sentiment": "positive",
-      "impact": "Secures $2.9 billion loan for Idaho project",
+      "impact": "Secures $2.9 billion loan for Idaho gold project",
       "tickers": [
         {
           "symbol": "PPTA",
-          "price": null,
-          "change": null
+          "price": 25.72,
+          "change": -11.157167530224527
         }
       ]
+    },
+    {
+      "title": "How Fanatics cornered the sports collectibles market",
+      "url": "https://www.cnbc.com/2026/05/22/how-fanatics-cornered-the-sports-collectibles-market.html",
+      "date": "2026-05-21T23:56:29.000Z",
+      "sentiment": "neutral",
+      "impact": "Fanatics expands into sports collectibles market.",
+      "tickers": []
     },
     {
       "title": "SpaceX scrubs test flight of massive Starship rocket, will retry Friday",
@@ -157,6 +233,20 @@
       "tickers": []
     },
     {
+      "title": "IMAX has held ‘preliminary talks’ with potential buyers, source says",
+      "url": "https://www.cnbc.com/2026/05/21/imax-preliminary-talks-potential-buyers.html",
+      "date": "2026-05-21T23:04:31.000Z",
+      "sentiment": "neutral",
+      "impact": "Potential acquisition talks may impact IMAX stock.",
+      "tickers": [
+        {
+          "symbol": "IMAX",
+          "price": 38.85,
+          "change": 0.8566978193146373
+        }
+      ]
+    },
+    {
       "title": "Meta, Broadcom and others to launch $125 million semiconductor research hub at UCLA",
       "url": "https://www.cnbc.com/2026/05/21/meta-broadcom-others-to-launch-125-million-semiconductor-research-hub-at-ucla.html",
       "date": "2026-05-21T20:30:01.000Z",
@@ -165,13 +255,27 @@
       "tickers": [
         {
           "symbol": "AVGO",
-          "price": null,
-          "change": null
+          "price": 411.48,
+          "change": -1.4395554384536136
         },
         {
           "symbol": "META",
-          "price": null,
-          "change": null
+          "price": 608.34,
+          "change": 0.07567283016385411
+        }
+      ]
+    },
+    {
+      "title": "Anthropic, Microsoft in talks for AI chip deal after $5 billion investment",
+      "url": "https://www.cnbc.com/2026/05/21/anthropic-microsoft-maia-200-ai-chip.html",
+      "date": "2026-05-21T19:53:21.000Z",
+      "sentiment": "positive",
+      "impact": "Microsoft's potential AI chip deal may boost efficiency.",
+      "tickers": [
+        {
+          "symbol": "MSFT",
+          "price": 417.115,
+          "change": -0.5768291084176567
         }
       ]
     },
@@ -184,10 +288,18 @@
       "tickers": [
         {
           "symbol": "NVDA",
-          "price": null,
-          "change": null
+          "price": 216.36,
+          "change": -2.057002136674747
         }
       ]
+    },
+    {
+      "title": "Oura, smart ring maker, files confidentially for IPO",
+      "url": "https://www.cnbc.com/2026/05/21/oura-smart-ring-ipo-filing.html",
+      "date": "2026-05-21T19:13:54.000Z",
+      "sentiment": "neutral",
+      "impact": "Oura's IPO filing has no direct impact on publicly traded stocks.",
+      "tickers": []
     },
     {
       "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",

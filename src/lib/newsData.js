@@ -3,7 +3,7 @@ import { XMLParser } from "fast-xml-parser";
 
 const RSS_FEEDS = [
   "https://finance.yahoo.com/news/rssindex",
-  "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+  "https://news.google.com/rss",
 ];
 
 const parser = new XMLParser({

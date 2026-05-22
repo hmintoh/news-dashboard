@@ -1,3 +1,12 @@
+// Daily data pipeline
+// 1. Fetch news articles (last 24h)
+// 2. For each article, call AI agent to analyze
+// 3. Fetch stock prices for all mentioned tickers
+// 4. Combine into one dataset with structure:
+//    { article, sentiment, tickers: [{symbol, price, change}] }
+// 5. Save to src/data/dashboard.json
+// Add delays between AI calls to respect rate limits (1 sec between calls)
+
 import fs from "fs";
 import { getNewsArticles } from "./newsData.js";
 import { analyzeNews } from "./aiAgent.js";
